@@ -4,6 +4,10 @@
 
 We are to build a business proposal detailing some of the benefits of Bikesharing.  This is a popular mode of transportaion to see the sights in New York City and it is beleived that our fair city of Des Moines, Iowa could benefit from such an endeavor.  Using data from Citibike, we giva a snapshot of some of the more important factors. 
 
+Follow this link to see the presentation on Tableau Public:
+
+[](https://public.tableau.com/profile/paul.smith1805#!/vizhome/Mod14_Bikesharing_Challenge/Bikesharing?publish=yes)
+
 ## Results:
 
 1. It's important to note the number of Bikesharers just in the month of August.
@@ -34,8 +38,8 @@ We are to build a business proposal detailing some of the benefits of Bikesharin
 
 ![](https://github.com/PJ427/Bikesharing/blob/main/Resources/User_Trips_by_Gender_by_Weekday.PNG)
 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Summary:
 
-## Summary:Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+The information we gathered using the Citibike dataset must be taken lightly.  There are many differences between New York City and Des Moines and were just not talking population.  However, the information does paint a decent enough picture on the who and when.  From this we can make determinations on type of bikes needed, quantity, etc.  It also gives us the breakout on when bike maintenance should be conducted.
 
-https://public.tableau.com/profile/paul.smith1805#!/vizhome/Mod14_Bikesharing_Challenge/Bikesharing?publish=yes
+
