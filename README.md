@@ -1,12 +1,17 @@
 # Bikesharing
 
-## Overview of the analysis:Explain the purpose of this analysis.
+## Overview of the analysis:  
+
+We are to build a business proposal detailing some of the benefits of Bikesharing.  This is a popular mode of transportaion to see the sights in New York City and it is beleived that our fair city of Des Moines, Iowa could benefit from such an endeavor.  Using data from Citibike, we giva a snapshot of some of the more important factors. 
 
 ## Results:
 
-1. It's important to note the number of Bikesharers just in the month of August. ![](https://github.com/PJ427/Bikesharing/blob/main/Resources/Number_of_Trips.PNG)
+1. It's important to note the number of Bikesharers just in the month of August.
+
+![](https://github.com/PJ427/Bikesharing/blob/main/Resources/Number_of_Trips.PNG)
 
 2. A breakdown by gender show that 65% of the riders are male, 25% are female and another 10% which is unknown. 
+
 ![](https://github.com/PJ427/Bikesharing/blob/main/Resources/Gender_Breakdown.PNG)
 
 3. This graph shows us not only how many riders but also the length of each ride by hour.  We can discern that bikesharing picks up in mid-afternoon to early evening and when is peak times for bike checkouts.
