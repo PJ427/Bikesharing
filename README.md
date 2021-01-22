@@ -6,7 +6,7 @@ We are to build a business proposal detailing some of the benefits of Bikesharin
 
 Follow this link to see the presentation on Tableau Public:
 
-[](https://public.tableau.com/profile/paul.smith1805#!/vizhome/Mod14_Bikesharing_Challenge/Bikesharing?publish=yes)
+https://public.tableau.com/profile/paul.smith1805#!/vizhome/Mod14_Bikesharing_Challenge/Bikesharing?publish=yes
 
 ## Results:
 
