@@ -42,4 +42,10 @@ Follow this link to see the presentation on Tableau Public:
 
 The information we gathered using the Citibike dataset must be taken lightly.  There are many differences between New York City and Des Moines and were just not talking population.  However, the information does paint a decent enough picture on the who and when.  From this we can make determinations on type of bikes needed, quantity, etc.  It also gives us the breakout on when bike maintenance should be conducted.
 
+Another factor to consider would be the age of potential riders.  This information could be important in determing length of rides, types of bikes, and placement.  Below are two charts that depict the age group of customers and subscribers:
+
+![](https://github.com/PJ427/Bikesharing/blob/main/Resources/Birth_Year_of_Riders.PNG)
+
+![](https://github.com/PJ427/Bikesharing/blob/main/Resources/User_Trips_by_Birth_Year.PNG)
+
 
